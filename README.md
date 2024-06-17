@@ -6,8 +6,10 @@ We have 4 algorithms:
 
 -----------for Algorithm FQCS:
 Run:     python FQCSAlgorithmEngine.py
+
 -----------for Algorithm DAIF-B:
 Run:    python QCSAlgorithmEngine.py
+
 -----------for Algorithm DAIF-DP:
 Run:    python FQSAlgorithmEngine.py
 
