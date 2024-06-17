@@ -7,10 +7,10 @@ We have 4 algorithms:
 -----------for Algorithm FQCS:
 Run:     python FQCSAlgorithmEngine.py
 
------------for Algorithm DAIF-B:
+-----------for Algorithm QCS:
 Run:    python QCSAlgorithmEngine.py
 
------------for Algorithm DAIF-DP:
+-----------for Algorithm FQSA:
 Run:    python FQSAlgorithmEngine.py
 
 Other variables can be changed in the respective FQCSAlgorithm.py and FQCSAlgorithmEngine.py files.
